@@ -1,0 +1,22 @@
+body{
+    background-image: url("/assets/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.ipod-pantalla {
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#tecnologias img{
+    width: 50px;
+    height: 50px;
+}
+
+#playButton {
+    margin-top: -30px;
+}
