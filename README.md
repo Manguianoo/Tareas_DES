@@ -52,6 +52,7 @@ Body:
 Headers:
 
 ## Estructura del proyecto
+```text
 src/
 ├── index.ts
 ├── app.ts
@@ -68,3 +69,4 @@ src/
 └── utils/
 ├── bcrypt.ts
 └── jwt.ts
+```
