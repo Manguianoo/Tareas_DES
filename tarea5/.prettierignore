@@ -1,0 +1,6 @@
+Readme.md
+node_modules
+dist
+package-lock.json
+package.json
+.env.example
